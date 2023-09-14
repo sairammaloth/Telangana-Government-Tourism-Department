@@ -14,7 +14,7 @@ This project analyzes domestic and foreign tourist data for Telangana, India bet
 
 To view the dashboard, simply click on the live link above. If you want to download the dashboard and run it locally, you will need to have Power BI Desktop installed on your computer.
 
-## Files
+## Files 
 
 - `merge_file.py`: A Python script that merges the individual dataset files into a single file for analysis in Power BI.
 - `Telangana-Government-Tourism-Department.pbix`: The Power BI file containing the dashboard and visualizations.
